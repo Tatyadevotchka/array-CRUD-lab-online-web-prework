@@ -34,4 +34,5 @@ end
 
 def retrieve_last_element_from_array(array)
   x = array 
+  array[x-1] 
 end
